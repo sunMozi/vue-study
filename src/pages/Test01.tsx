@@ -13,6 +13,10 @@ export default defineComponent(() => {
       >
         click me
       </button>
+
+      <el-button type="info">Info</el-button>
+
+      <el-empty description="description" />
     </>
   )
 })
