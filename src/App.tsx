@@ -7,6 +7,7 @@ const NAV_ITEMS = [
   { name: 'About', path: '/about' },
   { name: '作业1', path: '/work01' },
   { name: '作业2', path: '/work02' },
+  { name: '作业3', path: '/work03' },
   { name: '测试1', path: '/test01' },
   { name: 'Login', path: '/login' },
 ] as const
